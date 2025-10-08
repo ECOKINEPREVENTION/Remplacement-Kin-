@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optionnel : quelques styles globaux pastel zen */
+body {
+  background-color: #F8F9F9;
+  font-family: 'Poppins', sans-serif;
+}
